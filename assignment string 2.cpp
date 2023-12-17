@@ -20,7 +20,7 @@ int main(){
             return 0;
         }
     }
-
       cout<<-1;
-
 }
+// Time complexity => 0(n)
+// space complexity => 0(1)
